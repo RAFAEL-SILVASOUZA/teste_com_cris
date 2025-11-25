@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TesteComOCris")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ecc5fb8cde92927465f190c8996f72042489c697")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a700f613a6355b9e0f5c3a8c963f16f837ea778")]
 [assembly: System.Reflection.AssemblyProductAttribute("TesteComOCris")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TesteComOCris")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
